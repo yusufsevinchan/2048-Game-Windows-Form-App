@@ -1,0 +1,31 @@
+2048 Oyun Yardımı;
+
+2048 Oyununa Hoş Geldiniz!
+
+- **2048 Nedir?**
+2048, dört yönde kaydırma hareketleriyle oynanan bağımlılık yaratan bir bulmaca oyunudur. 
+Aynı numaralı karoları birleştirerek daha büyük ve güçlü bir karo hedefleyin.
+
+- **2048 Nasıl Oynanır?**
+Karoları hareket ettirerek aynı numaralıları birleştirerek daha büyük karolar oluşturun. 
+Karolar, boş hücreye rastlanana kadar hareket eder ve birleşir.
+
+- **2048 Nasıl Kazanılır?**
+Oyunda 2048 karo elde ederek kazanabilirsiniz. 
+Oyun alanı dolar ve yeni hareket yapacak karo kalmazsa oyun sona erer.
+
+- **Puanlama Sistemi**
+Her hamlede puan kazanırsınız. 
+Daha büyük ve güçlü karolar oluşturarak daha yüksek puanlar alabilirsiniz. 
+Az hamleyle oyunu bitirirseniz daha yüksek puan elde edersiniz.
+
+- **Stratejiler**
+  -Köşeleri Kullanın: Karoları köşelere iterek stratejik bir şekilde oynayın.
+  -Odaklanın: Yön seçimlerinizi planlayın ve oyunu kontrol altında tutun.
+  -Hızlı ve Doğru Kararlar: Hamlelerinizi iyi düşünerek yapın ve geleceği tahmin edin.
+
+**Sıkça Sorulan Sorular**
+  - Nasıl daha yüksek puan alabilirim?: Daha büyük karolar oluşturarak ve az hamleyle oyunu bitirerek yüksek puanlar kazanabilirsiniz
+  - Oyun neden biter?: Hareket edecek başka karo kalmadığında veya tüm alan dolarsa oyun sona erer.
+
+Keyifli Oyunlar!
