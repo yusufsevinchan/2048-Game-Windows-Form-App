@@ -200,22 +200,19 @@ namespace _2048_Game_Windows_Form_App
 
         private void FormGameManager_HelpButtonClicked(object sender, CancelEventArgs e)
         {
-            string helpHeader, helpText;
-
-            try
-            {
-                string helpFileName = "HelpText.txt";
-                string path = Path.Combine(Application.StartupPath, helpFileName);
-                string[] textFileds = File.ReadAllText(path).Split(';');
-
-                helpHeader = textFileds[0];
-                helpText = textFileds[1];
-            }
-            catch
-            {
-                MessageBox.Show("An error occured while retrieving help texts!");
-                return;
-            }
+            string helpHeader = "2048 Oyunu";
+            string helpText = "2048 Oyununa Hoş Geldiniz!\r\n\r\n" +
+                "- **2048 Nedir?**\r\n2048, dört yönde kaydırma hareketleriyle oynanan bağımlılık yaratan bir bulmaca oyunudur. \r\nAynı numaralı karoları birleştirerek daha büyük ve güçlü bir karo hedefleyin.\r\n\r\n" +
+                "- **2048 Nasıl Oynanır?**\r\nKaroları hareket ettirerek aynı numaralıları birleştirerek daha büyük karolar oluşturun. \r\nKarolar, boş hücreye rastlanana kadar hareket eder ve birleşir.\r\n\r\n" +
+                "- **2048 Nasıl Kazanılır?**\r\nOyunda 2048 karo elde ederek kazanabilirsiniz. \r\nOyun alanı dolar ve yeni hareket yapacak karo kalmazsa oyun sona erer.\r\n\r\n" +
+                "- **Puanlama Sistemi**\r\nHer hamlede puan kazanırsınız. \r\nDaha büyük ve güçlü karolar oluşturarak daha yüksek puanlar alabilirsiniz. \r\nAz hamleyle oyunu bitirirseniz daha yüksek puan elde edersiniz.\r\n\r\n" +
+                "- **Stratejiler**\r\n  " +
+                "  -Köşeleri Kullanın: Karoları köşelere iterek stratejik bir şekilde oynayın.\r\n  " +
+                "  -Odaklanın: Yön seçimlerinizi planlayın ve oyunu kontrol altında tutun.\r\n  " +
+                "  -Hızlı ve Doğru Kararlar: Hamlelerinizi iyi düşünerek yapın ve geleceği tahmin edin.\r\n\r\n" +
+                "-**Sıkça Sorulan Sorular**\r\n  " +
+                "  - Nasıl daha yüksek puan alabilirim?: Daha büyük karolar oluşturarak ve az hamleyle oyunu bitirerek yüksek puanlar kazanabilirsiniz\r\n  " +
+                "  - Oyun neden biter?: Hareket edecek başka karo kalmadığında veya tüm alan dolarsa oyun sona erer.\r\n\r\nKeyifli Oyunlar!";
 
             MessageBox.Show(helpText, helpHeader, MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
