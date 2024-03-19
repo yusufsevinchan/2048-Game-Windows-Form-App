@@ -16,6 +16,6 @@ Special thanks to Gabriele Cirulli, the creator of the original 2048 game.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at yusufsevinchan@gmail.com
+If you have any questions, suggestions, or feedback, feel free to reach out to us at yusufsevinchan@protonmail.com
 
 Enjoy the game!
