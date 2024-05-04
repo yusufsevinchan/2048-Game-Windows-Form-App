@@ -3,7 +3,7 @@ Welcome to the 2048 Windows Form game! 😊
 
 This project is a simple implementation of the popular 2048 puzzle game using C# and Windows Forms.
 
-## How to Play
+## How to Play 🎮
 **Objective**: The goal of the game is to combine tiles with the same number to reach the 2048 tile.🏆
 
 **Controls**: Use the arrow keys (Up, Down, Left, Right) to move the tiles in the corresponding direction.⬆️⬇️⬅️➡️
@@ -13,10 +13,10 @@ This project is a simple implementation of the popular 2048 puzzle game using C#
 **Game Over**: The game is over when there are no more possible moves left.💥
 
 ## Acknowledgements 🙌
-Special thanks to @gabrielecirulli, the creator of the original 2048 game.
+Special thanks to [Gabriele Cirulli](https://github.com/gabrielecirulli), the creator of the original 2048 game.
 
 ## Contact 📧
-If you have any questions, suggestions, or feedback, feel free to reach out to us at yusufsevinchan13@gmail.com 
+If you have any questions, suggestions, or feedback, feel free to reach out to me at yusufsevinchan13@gmail.com 
 
 Enjoy the game! 🎉
 
@@ -27,23 +27,23 @@ Enjoy the game! 🎉
 
 
 # 2048 Windows Form Oyunu
-2048 Windows Form Oyununa Hoş geldiniz!😊
+2048 Windows Form oyununa hoş geldiniz! 😊
 
-Bu proje, C# ve Windows Form kullanılarak popüler 2048 bulmaca oyununun basit bir uygulamasını içerir.
+Bu proje, C# ve Windows Forms kullanarak popüler 2048 bulmaca oyununun basit bir uygulamasıdır.
 
 ## Nasıl Oynanır 🎮
-**Amaç**: Oyunun amacı, aynı sayıdaki döşemeleri birleştirerek 2048 döşemesine ulaşmaktır.🏆
+**Amaç**: Oyunun amacı, aynı sayıya sahip karoları birleştirerek 2048 karoya ulaşmaktır.🏆
 
-**Kontroller**: Döşemeleri ilgili yöne taşımak için yön tuşlarını (Yukarı, Aşağı, Sol, Sağ) kullanın.⬆️⬇️⬅️➡️
+**Kontroller**: Karoları ilgili yönde hareket ettirmek için ok tuşlarını (Yukarı, Aşağı, Sol, Sağ) kullanın.⬆️⬇️⬅️➡️
 
-**Döşeme Hareketi**: Aynı sayıya sahip iki döşeme bir araya geldiğinde, toplamlarını içeren bir döşeme oluştururlar.🌀
+**Karo Hareketi**: Aynı sayıya sahip iki karo birbirine değdiğinde, toplamlarıyla birlikte tek bir karo haline gelirler. 🌀
 
-**Oyun Bitt**: Oyun, artık mümkün hareket kalmadığında biter.💥
+**Oyun Bitti**: Artık olası hamle kalmadığında oyun bitmiştir.💥
 
 ## Teşekkür 🙌
-Orijinal 2048 oyununun yaratıcısı @gabrielecirulli 'ye özel teşekkürler.
+Orijinal 2048 oyununun yaratıcısı [Gabriele Cirulli](https://github.com/gabrielecirulli) 'ye özel teşekkürler.
 
 ## İletişim 📧
-Herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, bize yusufsevinchan13@gmail.com adresinden ulaşmaktan çekinmeyin.
+Herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, yusufsevinchan13@gmail.com adresinden bana ulaşmaktan çekinmeyin. 
 
 Oyunun tadını çıkarın! 🎉
